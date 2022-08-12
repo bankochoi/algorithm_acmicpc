@@ -1,0 +1,15 @@
+
+
+*.sln
+
+*.vcxproj
+
+*.vcxproj.filters
+
+*.vcxproj.user
+
+*.obj
+
+x64/
+
+.vs/
